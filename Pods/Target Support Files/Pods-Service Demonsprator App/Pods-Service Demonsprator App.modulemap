@@ -1,0 +1,6 @@
+framework module Pods_Service_Demonsprator_App {
+  umbrella header "Pods-Service Demonsprator App-umbrella.h"
+
+  export *
+  module * { export * }
+}
